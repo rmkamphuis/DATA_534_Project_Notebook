@@ -1,0 +1,20 @@
+---
+title: "DATA 534 Individual Project Notebook"
+author: "Rachel Kamphuis"
+date: "2026-01-20"
+output: pdf_document
+---
+
+## 2026-01-19
+
+### Summary
+- Met with group members to decide on a topic for our project
+- Decided on The Metropolitan Museum of Art Collection API
+- Read the API's dosumentation https://metmuseum.github.io/
+
+## Contribution to Project
+- Decided on our topic
+- Created Project Report github page and notebook.Rmd file
+
+## Links to Github
+- N/A
