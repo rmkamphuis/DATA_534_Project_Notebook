@@ -8,13 +8,16 @@ output: pdf_document
 ## 2026-01-19
 
 ### Summary
-- Met with group members to decide on a topic for our project
-- Decided on The Metropolitan Museum of Art Collection API
-- Read the API's dosumentation https://metmuseum.github.io/
+
+-   Met with group members to decide on a topic for our project
+-   Decided on The Metropolitan Museum of Art Collection API
+-   Read the API's documentation <https://metmuseum.github.io/>
 
 ## Contribution to Project
-- Decided on our topic
-- Created Project Report github page and notebook.Rmd file
+
+-   Decided on our topic
+-   Created Project Report github page and notebook.Rmd file
 
 ## Links to Github
-- https://github.com/rmkamphuis/DATA_534_Project_Notebook/commit/20bd1c93da37cf02c40d933c2fa9fabf45d0738d
+
+-   <https://github.com/rmkamphuis/DATA_534_Project_Notebook/commit/20bd1c93da37cf02c40d933c2fa9fabf45d0738d>
