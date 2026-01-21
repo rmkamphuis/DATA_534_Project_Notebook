@@ -13,11 +13,27 @@ output: pdf_document
 -   Decided on The Metropolitan Museum of Art Collection API
 -   Read the API's documentation <https://metmuseum.github.io/>
 
-## Contribution to Project
+### Contribution to Project
 
 -   Decided on our topic
 -   Created Project Report github page and notebook.Rmd file
 
-## Links to Github
+### Links to Github
 
 -   <https://github.com/rmkamphuis/DATA_534_Project_Notebook/commit/20bd1c93da37cf02c40d933c2fa9fabf45d0738d>
+
+## 2026-01-20
+
+### Summary
+
+- Made proposal PowerPoint
+- Proofread and edited Gladys's rough draft proposal word document
+- Proofread and accepted Gladys's PR
+
+### Contribution to Project
+
+- Designed our proposal PowerPoint
+
+### Links to Github
+
+- N/A
