@@ -37,3 +37,31 @@ output: pdf_document
 ### Links to Github
 
 - N/A
+
+## 2026-01-26
+
+### Summary
+
+- Finalized group member roles/contributions (split work into 3 sections)
+
+### Contribution to Project
+
+- Each member now has a defined role
+
+### Links to Github
+
+- N/A
+
+## 2026-01-27
+
+### Summary
+
+- Reviewed contribution document and started planning my part (part B)
+
+### Contribution to Project
+
+- Made notes of how to start the code for part B
+
+### Links to Github
+
+- N/A
