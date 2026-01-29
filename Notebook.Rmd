@@ -60,8 +60,21 @@ output: pdf_document
 
 ### Contribution to Project
 
-- Made notes of how to start the code for part B
+- Made notes of how to start the code for part B and began the met_object() file
 
 ### Links to Github
 
 - N/A
+
+## 2026-01-28
+
+### Summary
+
+- Wrote the entirety of the met_objects() and met_tidy_object() files and finished the met_object file
+
+### Contribution to Project
+
+- Wrote the met_object(), met_objects(), and met_tidy_object() files
+
+### Links to Github
+- https://github.com/ChoWingDev/Data534_Museum_of_Art_API/pull/4
