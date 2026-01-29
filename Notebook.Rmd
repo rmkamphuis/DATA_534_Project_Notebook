@@ -56,7 +56,7 @@ output: pdf_document
 
 ### Summary
 
-- Reviewed contribution document and started planning my part (part B)
+- Reviewed contribution document, started planning my part (part B), and began met_object() file
 
 ### Contribution to Project
 
