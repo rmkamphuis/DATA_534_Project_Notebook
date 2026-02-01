@@ -78,3 +78,18 @@ output: pdf_document
 
 ### Links to Github
 - https://github.com/ChoWingDev/Data534_Museum_of_Art_API/pull/4
+
+## 2026-02-01
+
+### Summary
+
+- Created our final presentation PowerPoint and sent it to group members for review
+- Altered Kara's vignette to include installation information
+
+### Contribution to Project
+
+- Made our PowerPoint for our presentation
+- Improved vignette
+
+### Links to Github
+- https://github.com/ChoWingDev/Data534_Museum_of_Art_API/pull/10
