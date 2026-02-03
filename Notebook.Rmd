@@ -93,3 +93,17 @@ output: pdf_document
 
 ### Links to Github
 - https://github.com/ChoWingDev/Data534_Museum_of_Art_API/pull/10
+
+## 2026-02-02
+
+### Summary
+
+- Fixed the error I created yesterday while adding to Kara's vignette (Actions were failing)
+- Passed in the project
+
+### Contribution to Project
+
+- Fixed my error 
+
+### Links to Github
+- https://github.com/ChoWingDev/Data534_Museum_of_Art_API/pull/10
